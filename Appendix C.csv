@@ -1,0 +1,65 @@
+HS.PIT.1.4,Air or gas is administered to the patient (> 4nL to <= 1 mL),N/A,N/A,1,1,N/A
+HS.PIT.1.5,Air or gas is administered to the patient (> 1 mL to <= 10 mL),N/A,N/A,1,1,N/A
+HS.PIT.1.6,Air or gas is administered to the patient (> 10 mL to <= 50 mL),N/A,N/A,1,1,N/A
+HS.PIT.1.7,Air or gas is administered to the patient (> 50 mL),N/A,N/A,1,1,N/A
+HS.PIT.10.1,Patient receives more therapy than intended (variance of > 5% to <= 10%),N/A,N/A,2,2,1
+HS.PIT.10.2,Patient receives more therapy than intended (variance of > 10% to <= 20%),N/A,N/A,1,1,1
+HS.PIT.10.3,Patient receives more therapy than intended (variance of > 20% to <= 100%),N/A,N/A,1,1,1
+HS.PIT.11.1,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (organic or degradants),N/A,N/A,3,3,2
+HS.PIT.11.10,Patient is exposed to residual solvents or process materials not defined by current guidances at levels exceeding toxicological qualification or clinical safety,N/A,N/A,1,1,N/A
+HS.PIT.11.3,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 1),N/A,N/A,1,1,N/A
+HS.PIT.11.4,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 2),N/A,N/A,1,1,N/A
+HS.PIT.11.5,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 3),N/A,N/A,1,1,N/A
+HS.PIT.11.6,"Patient is exposed to impurities that are not defined or are defined as ""other"" by current guidances",N/A,N/A,1,1,N/A
+HS.PIT.11.7,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 1),N/A,N/A,1,1,N/A
+HS.PIT.11.8,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 2),N/A,N/A,1,1,N/A
+HS.PIT.11.9,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 3),N/A,N/A,1,1,N/A
+HS.PIT.13.1,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 5% to <= 10%),N/A,N/A,1,1,1
+HS.PIT.13.2,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 10% to <= 20%),N/A,N/A,1,1,1
+HS.PIT.13.3,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 20% to <= 100%),N/A,N/A,1,1,1
+HS.PIT.13.4,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 100%),N/A,N/A,1,1,1
+HS.PIT.13.5,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 5% to <= 10%),N/A,N/A,2,1,2
+HS.PIT.13.6,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 10% to <= 20%),N/A,N/A,2,1,2
+HS.PIT.13.7,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 20% to <= 100%),N/A,N/A,2,1,2
+HS.PIT.14.1,Patient is exposed to an incorrect or unintended product,N/A,N/A,2,2,1
+HS.PIT.15.1,Patient is exposed to a product via an incorrect route of administration,N/A,N/A,1,1,N/A
+HS.PIT.16.1,Patient receives less therapy than intended (variance of > 5% to <= 10%),N/A,N/A,2,2,1
+HS.PIT.16.2,Patient receives less therapy than intended (variance of > 10% to <= 20%),N/A,N/A,1,1,1
+HS.PIT.16.3,Patient receives less therapy than intended (variance of > 20% to <= 100%),N/A,N/A,1,1,1
+HS.PIT.18.1,Patient experiences an interruption of therapy (> 1 minute to <= 5 minutes),N/A,N/A,1,1,1
+HS.PIT.18.2,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),N/A,N/A,1,1,1
+HS.PIT.18.3,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),N/A,N/A,1,1,1
+HS.PIT.18.4,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),N/A,N/A,1,1,1
+HS.PIT.18.5,Patient experiences an interruption of therapy (> 12 hours),N/A,N/A,1,1,1
+HS.PIT.19.1,Patient is exposed to leachables at levels exceeding toxicological qualification or clinical safety,N/A,N/A,2,2,1
+HS.PIT.2.1,End user is exposed to allergens,N/A,N/A,1,1,1
+HS.PIT.20.3,Patient's tissue is exposed to excessive tension or compression during therapy,N/A,N/A,1,1,N/A
+HS.PIT.21.3,Patient is exposed to microbial contamination from a wet product contaminated at the point of or during administration or a dry product contaminated at any point,N/A,N/A,2,2,2
+HS.PIT.21.4,"Patient is exposed to microbial contamination from a product contaminated at the point of compounding or admixing, prior to the point of administration",N/A,N/A,2,2,N/A
+HS.PIT.21.5,Patient is exposed to microbial contamination from a wet product contaminated prior to the point of use or from reuse of a previously dry product,N/A,N/A,2,2,N/A
+HS.PIT.22.1,Patient is exposed to hyper-osmolar product,N/A,N/A,1,1,N/A
+HS.PIT.22.2,Patient is exposed to hypo-osmolar product,N/A,N/A,1,1,N/A
+HS.PIT.23.1,Patient is exposed to sub-visible particulate matter at levels exceeding specifications,N/A,N/A,2,2,N/A
+HS.PIT.23.2,Patient is exposed to visible particulate matter,N/A,N/A,1,1,1
+HS.PIT.24.1,Patient is exposed to a product with a pH of < 6 or > 9,N/A,N/A,2,2,1
+HS.PIT.27.1,End User inserts or ingests removable product components,N/A,N/A,1,1,N/A
+HS.PIT.27.3,End User is exposed to a sharp surface on the product,N/A,N/A,1,1,1
+HS.PIT.27.4,"End User is exposed to a spike, needle, or cannula stick",N/A,N/A,1,1,N/A
+HS.PIT.27.6,End User is exposed to improper ergonomics and anthropometrics while handling the product,N/A,N/A,2,2,1
+HS.PIT.27.7,End User is struck by a falling product,N/A,N/A,1,1,N/A
+HS.PIT.27.8,"End User is unintentionally exposed to a chemical, drug, or material",N/A,N/A,2,2,1
+HS.PIT.27.9,"End User slips, trips or falls when exposed to the product",N/A,N/A,1,1,1
+HS.PIT.28.1,Patient is exposed to an unstable drug emulsion,N/A,N/A,2,2,N/A
+HS.PIT.3.1,Patient experiences bodily fluid loss (<= 15% of their total blood volume),N/A,N/A,1,1,N/A
+HS.PIT.3.2,Patient experiences bodily fluid loss (> 15% to <= 30% of their total blood volume),N/A,N/A,1,1,N/A
+HS.PIT.3.3,Patient experiences bodily fluid loss (> 30% to <= 40%of their total blood volume),N/A,N/A,1,1,N/A
+HS.PIT.3.4,Patient experiences bodily fluid loss (> 40% of their total blood volume),N/A,N/A,1,1,N/A
+HS.PIT.4.1,Patient is exposed to a product contaminated with infectious prions (TSE/BSE),"The evaluation of incoming raw materials, manufacturing materials, primary packaging materials and disposable equipment from outside suppliers for Baxter manufactured products must to adhere to GQP-12-08, Evaluation of TSE and Virus Risks for Materials Used in Baxter Processes.  Therefore, the Hazardous Situation is expected to occur at a rate of no more than 1 qualitatively. ",1,1,N/A,N/A
+HS.PIT.5.1,Patient experiences a delay in the initiation of therapy (> 1 minutes to <= 5 minutes),N/A,N/A,3,3,2
+HS.PIT.5.2,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),N/A,N/A,3,3,2
+HS.PIT.5.3,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),N/A,N/A,3,3,2
+HS.PIT.5.4,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),N/A,N/A,1,1,1
+HS.PIT.5.5,Patient experiences a delay in the initiation of therapy (> 12 hours),N/A,N/A,1,1,1
+HS.PIT.6.2,End user is exposed to burning components or smoke,N/A,N/A,1,1,1
+HS.PIT.6.3,End user is exposed to fire,N/A,N/A,1,1,1
+HS.PIT.7.1,Patient is exposed to a product containing endotoxins or pyrogens exceeding acceptable limits,N/A,N/A,2,2,N/A

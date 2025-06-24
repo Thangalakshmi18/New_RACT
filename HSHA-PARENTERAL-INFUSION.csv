@@ -1,0 +1,1494 @@
+HS.PIT.1.1,Air or Gas in System,Air or gas is administered to the patient (>= 4 nL to 10 킠),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, stroke, cardiac and/or respiratory arrest
+",A,- IV Syringe Set ,"- Ambulatory Pump 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.1.2,Air or Gas in System,Air or gas is administered to the patient (> 10 킠 to <= 50 킠),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, stroke,  cardiac and/or respiratory arrest",- LVP,- IV Syringe Set ,"- Ambulatory Pump 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.1.3,Air or Gas in System,Air or gas is administered to the patient (> 50 킠 to <= 1 mL),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, stroke,  cardiac and/or respiratory arrest",- LVP,N/A,"- Ambulatory Pump 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Exceptional,Rare,Expected,40
+HS.PIT.1.3,Air or Gas in System,Air or gas is administered to the patient (> 50 킠 to <= 1 mL),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death
+",N/A,- IV Syringe Set ,N/A,N/A,N/A,N/A,Rare,Rare,Expected,50
+HS.PIT.1.4,Air or Gas in System,Air or gas is administered to the patient (> 4nL to <= 1 mL),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension,  stroke, cardiac  and/or respiratory arrest","- Filled Solution Containers 
+- Sets and Set Components",N/A,N/A,"Premix, Prefilled Syringe 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition)",N/A,Exceptional,Rare,Expected,40
+HS.PIT.1.5,Air or Gas in System,Air or gas is administered to the patient (> 1 mL to <= 10 mL),"Pain, neurological changes, decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass
+","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.1.5,Air or Gas in System,Air or gas is administered to the patient (> 1 mL to <= 10 mL),"Pain, neurological changes, decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death
+",N/A,- IV Syringe Set ,N/A,N/A,N/A,N/A,Occasional,Expected,Exceptional,60
+HS.PIT.1.6,Air or Gas in System,Air or gas is administered to the patient (> 10 mL to <= 50 mL),"Pain, neurological changes, decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Exceptional,60
+HS.PIT.1.6,Air or Gas in System,Air or gas is administered to the patient (> 10 mL to <= 50 mL),"Pain, neurological changes, decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death
+",N/A,- IV Syringe Set ,N/A,N/A,N/A,N/A,Often,Expected,Rare,80
+HS.PIT.1.7,Air or Gas in System,Air or gas is administered to the patient (> 50 mL),"Pain, neurological changes,  decreased oxygenation, seizures, arrhythmia, pulmonary hypertension, cardiac and/or respiratory arrest, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Expected,Rare,Exceptional,100
+HS.PIT.2.1,Allergens,End user is exposed to allergens,"Type 1, 2, 3, 4 allergic reactions 
+Urticaria, pruritis, orofacial edema, angioedema, rhinoconjunctivitis, dysphagia, flushing, dyspnea, hypotension, cardiac arrhythmia, shock, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Sterile Compounding Accessories 
+- Non-Sterile Compounding Accessories
+- Sterile Compounding Disposables 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+-Sterile adapters","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Often,60
+HS.PIT.3.1,Bodily Fluid Loss,Patient experiences bodily fluid loss (<= 15% of their total blood volume),"Low blood pressure, tachycardia, anemia, decreased oxygenation, tissue injury, organ damage/failure","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",- IV Syringe Set,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.3.2,Bodily Fluid Loss,Patient experiences bodily fluid loss (> 15% to <= 30% of their total blood volume),"Low blood pressure, tachycardia, anemia, decreased oxygenation, tissue injury, organ damage/failure, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",- IV Syringe Set,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Occasional,60
+HS.PIT.3.3,Bodily Fluid Loss,Patient experiences bodily fluid loss (> 30% to <= 40%of their total blood volume),"Low blood pressure, tachycardia, anemia, decreased oxygenation, tissue injury, organ damage/failure, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",- IV Syringe Set,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Likely,Expected,N/A,90
+HS.PIT.3.4,Bodily Fluid Loss,Patient experiences bodily fluid loss (> 40% of their total blood volume),"Low blood pressure, tachycardia, anemia, decreased oxygenation, tissue injury, organ damage/failure, death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",- IV Syringe Set,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Expected,Rare,N/A,100
+HS.PIT.3.5,Bodily Fluid Loss,Patient experiences bodily fluid loss (CSF),"Neurologic syndrome that may include headache, nausea, and tinnitus, orthostatic headaches","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,"- Ambulatory Pump 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Expected,Periodic,Exceptional,100
+HS.PIT.4.1,Contaminants of Animal Origin,Patient is exposed to a product contaminated with infectious prions (TSE/BSE),"Psychiatric symptoms, neurodegeneration (e.g. ataxia, dysphagia, dysarthria, cognitive impairment; and impaired vision including blindness, myoclonus; dementia); coma and death","- Filled Solution Containers 
+- Sets and Set Components",- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Sterile Compounding Accessories 
+- Sterile Compounding Disposables
+- Sterile adapters
+- Compounding Accessories 
+- Compounder Tube Sets 
+- MB+ 
+- Recon Devices 
+- MVI
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Expected,N/A,N/A,100
+HS.PIT.5.1,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 minutes to <= 5 minutes),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Rare,Rare,Expected,50
+HS.PIT.5.1,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 minutes to <= 5 minutes),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Occasional,Expected,20
+HS.PIT.5.1,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 minutes to <= 5 minutes),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia",N/A,N/A,N/A,N/A,Expected,20
+HS.PIT.5.1,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 minutes to <= 5 minutes),"Delay of pharmacological effects, worsening of patient condition","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- MVI 
+- Empty Containers (Non Nutrition) 
+",N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.5.2,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),"Delay of pharmacological effects, worsening of patient condition including death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- MVI 
+- Empty Containers (Non Nutrition) 
+",N/A,Rare,Periodic,Expected,50
+HS.PIT.5.2,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Occasional,Expected,Likely,60
+HS.PIT.5.2,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Often,60
+HS.PIT.5.2,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Occasional,Often,Expected,60
+HS.PIT.5.2,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 5 minutes to <= 1 hour),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.5.3,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition including death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) ",N/A,Occasional,Often,Expected,60
+HS.PIT.5.3,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Periodic,Expected,Occasional,70
+HS.PIT.5.3,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition ",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Periodic,60
+HS.PIT.5.3,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Often,Expected,Rare,80
+HS.PIT.5.3,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.5.3,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 1 hour to <= 3 hours),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,N/A,N/A,"- Automated Compounders 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Sterile Compounding Disposables 
+- Sterile Compounding Accessories
+- Non-Sterile Compounding Accessories
+- Sterile Adapters
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.5.4,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, worsening of patient condition including death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Compounding Accessories
+- Non-Sterile Compounding Accessories
+- Sterile Adapters
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ",N/A,Periodic,Expected,Likely,70
+HS.PIT.5.4,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Likely,Expected,N/A,90
+HS.PIT.5.4,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, hematuria, hemorrhagic cystitis, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Occasional,Expected,Likely,60
+HS.PIT.5.4,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,N/A,N/A,"- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Expected,Occasional,60
+HS.PIT.5.4,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Often,Expected,Occasional,80
+HS.PIT.5.4,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 3 hours to <= 12 hours),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Rare,60
+HS.PIT.5.5,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Compounding Accessories
+- Non-Sterile Compounding Accessories
+- Sterile Adapters
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ",N/A,Often,Expected,Often,80
+HS.PIT.5.5,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Expected,Likely,Occasional,100
+HS.PIT.5.5,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Exceptional,60
+HS.PIT.5.5,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Expected,Periodic,N/A,100
+HS.PIT.5.5,Delay In Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, hematuria, hemorrhagic cystitis, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Periodic,Expected,Often,70
+HS.PIT.5.5,Delay in Therapy,Patient experiences a delay in the initiation of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,N/A,N/A,N/A,N/A,"- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Rare,60
+HS.PIT.6.1,"Electrical, Thermal, Electromechanical Energy",End user is exposed to a product뭩 hot surface or hot fluid leaking from a product,"Pain, burns ranging from 1st to 3rd degree","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP","- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord
+- Ambulatory Pump Sets","Premix Frozen 
+- Anti-Infectives 
+- Cardiovascular ","- Automated Compounders 
+- Sterile Compounding Accessories 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Non-Sterile Compounding Accessories
+- Repeater Pumps and Accessories 
+- MB+ 
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.6.2,"Electrical, Thermal, Electromechanical Energy",End user is exposed to burning components or smoke,"Pain, burns ranging from 1st to 3rd degree; respiratory distress from smoke inhalation, death  ","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,"Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ","- DoseEdge 
+- Automated Compounders 
+- Repeater Pumps and Accessories 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Non-Sterile Compounding Accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.6.2,"Electrical, Thermal, Electromechanical Energy",End user is exposed to burning components or smoke,"Pain, burns ranging from 1st to 3rd degree; respiratory distress from smoke inhalation, death  ",N/A,"- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord
+- Ambulatory Pump Sets",N/A,N/A,N/A,Rare,Likely,Expected,50
+HS.PIT.6.3,"Electrical, Thermal, Electromechanical Energy",End user is exposed to fire,"Pain, burns ranging from 1st to 3rd degree; respiratory distress from smoke inhalation, death  ","- Filled Solution Containers 
+- Sets and Set Components 
+- LVP",N/A,N/A,"Premix
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- DoseEdge 
+- Automated Compounders 
+- Repeater Pumps and Accessories 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Non-Sterile Compounding Accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Periodic,Expected,60
+HS.PIT.6.3,"Electrical, Thermal, Electromechanical Energy",End user is exposed to fire,"Pain, burns ranging from 1st to 3rd degree; respiratory distress from smoke inhalation, death  ",N/A,"- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord
+- Ambulatory Pump Sets",N/A,N/A,N/A,Occasional,Expected,Often,60
+HS.PIT.6.4,"Electrical, Thermal, Electromechanical Energy",End user is exposed to electrical current or voltage,"Pain, burns, nervous system damage, fibrillation of the heart,  electrocution  ",- LVP,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord",N/A,"- DoseEdge 
+- Automated Compounders 
+- Repeater Pumps and Accessories ",N/A,Occasional,Expected,Likely,60
+HS.PIT.6.5,"Electrical, Thermal, Electromechanical Energy",End user is exposed to electrostatic discharge (ESD),"Pain, shock, burn",- LVP,N/A,N/A,N/A,"- DoseEdge 
+- Automated Compounders 
+- Repeater Pumps and Accessories ",N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.6.5,"Electrical, Thermal, Electromechanical Energy",End user is exposed to electrostatic discharge (ESD),"Pain, shock, burn",N/A,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord",N/A,N/A,N/A,Exceptional,Rare,Expected,40
+HS.PIT.7.1,Endotoxins or Pyrogens,Patient is exposed to a product containing endotoxins or pyrogens exceeding acceptable limits,"Fever, chills, flushing, dyspnea, hemorrhage, toxic shock, organ damage/failure, death",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Periodic,Expected,Rare,70
+HS.PIT.7.1,Endotoxins or Pyrogens,Patient is exposed to a product containing endotoxins or pyrogens exceeding acceptable limits,"Fever, chills, flushing, dyspnea, hemorrhage, toxic shock, organ damage/failure, death",- Sets and Set Components,N/A,N/A,N/A,"- Sterile Compounding Accessories 
+- Compounding Accessories 
+- Compounder Tube Sets 
+- Non-Sterile Compounding Accessories 
+- Recon Devices 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- Sterile Adapters",N/A,Rare,Periodic,Expected,50
+HS.PIT.8.1,Excessive Light,End user is exposed to emitted light from the product,"Varies from no harm to health effect of annoyance or sleep  interruption
+",- LVP,N/A,N/A,N/A,"- DoseEdge 
+- Automated Compounders",N/A,N/A,Exceptional,Expected,20
+HS.PIT.8.1,Excessive Light,End user is exposed to emitted light from the product,"Varies from no harm to health effect of annoyance or sleep  interruption
+",N/A,- Syringe Pump,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord",N/A,N/A,N/A,N/A,Rare,Expected,20
+HS.PIT.9.1,Excessive Noise,End user is exposed to acoustical noise from the product (> 35 dBA to <= 85 dBA),Noise breakouts are based on standards and recommended noise levels,- LVP,N/A,N/A,N/A,"- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories",N/A,N/A,Rare,Expected,20
+HS.PIT.9.1,Excessive Noise,End user is exposed to acoustical noise from the product (> 35 dBA to <= 85 dBA),Varies from no harm to non-auditory health effects including annoyance and sleep interruption,N/A,- Syringe Pump,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord",N/A,N/A,N/A,N/A,Periodic,Expected,30
+HS.PIT.9.2,Excessive Noise,End user is exposed to acoustical noise from the product (> 85 dBa),"Varies from no harm to hearing loss or non-auditory health effects including annoyance, sleep interruption, daytime hypersomulence and changes in blood pressure 
+",- LVP,N/A,N/A,N/A,"- DoseEdge 
+- Automated Compounders",N/A,Exceptional,Rare,Expected,40
+HS.PIT.9.2,Excessive Noise,End user is exposed to acoustical noise from the product (> 85 dBa),"Varies from no harm to hearing loss or non-auditory health effects including annoyance, sleep interruption, daytime hypersomulence and changes in blood pressure
+",N/A,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord",N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.10.1,Excessive Therapy,Patient receives more therapy than intended (variance of > 5% to <= 10%),"Nausea/vomiting, electrolyte imbalance, hematuria, alopecia, peripheral edema, hemorrhagic cystitis, hypertension, impairment of wound healing, hematologic abnormalities, respiratory failure, cerebral edema, organ damage/failure
+","- Filled Solution Containers
+- Sets and Set components (excludes those that do not control flow rate)
+- LVP",- Syringe Pump,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ",N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.10.1,Excessive Therapy,Patient receives more therapy than intended (variance of > 5% to <= 10%),"Nausea/vomiting, electrolyte imbalance, hematuria, alopecia, peripheral edema, hemorrhagic cystitis, hypertension, impairment of wound healing, hematologic abnormalities, respiratory failure, cerebral edema, organ damage/failure, death
+",N/A,N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Exceptional,Expected,50
+HS.PIT.10.2,Excessive Therapy,Patient receives more therapy than intended (variance of > 10% to <= 20%),"Electrolyte imbalance, Clostridium Difficile associated Diarrhea,  peripheral edema, hypertension, hypotension (Brevibloc), hemolysis, pulmonary toxicity (for Nexterone only), respiratory failure, cardiac arrhythmia, bradycardia, cerebral edema, organ damage/failure","- Filled Solution Containers
+- Sets and Set components (excludes those that do not control flow rate)
+- LVP",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ",N/A,N/A,Exceptional,Rare,Expected,40
+HS.PIT.10.2,Excessive Therapy,Patient receives more therapy than intended (variance of > 10% to <= 20%),"Electrolyte imbalance, Clostridium Difficile associated Diarrhea,  peripheral edema, hypertension, hypotension (Brevibloc), hemolysis, pulmonary toxicity (for Nexterone only), respiratory failure, cardiac arrhythmia, bradycardia, cerebral edema, organ damage/failure, death",N/A,N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ",N/A,Rare,Rare,Expected,50
+HS.PIT.10.2,Excessive Therapy,Patient receives more therapy than intended (variance of > 10% to <= 20%),"Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure",N/A,"- Syringe Pump
+",N/A,N/A,N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.10.2,Excessive Therapy,Patient receives more therapy than intended (variance of > 10% to <= 20%),"Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,N/A,N/A,N/A,N/A,"- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Exceptional,Expected,50
+HS.PIT.10.2,Excessive Therapy,Patient receives more therapy than intended (variance of > 10% to <= 20%),"Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.10.3,Excessive Therapy,Patient receives more therapy than intended (variance of > 20% to <= 100%),"Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death","- Filled Solution Containers 
+- Sets and Set components (excludes those that do not control flow rate) 
+- LVP","- Syringe Pump
+",N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.10.3,Excessive Therapy,Patient receives more therapy than intended (variance of > 20% to <= 100%),"Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Occasional,Expected,Likely,60
+HS.PIT.10.3,Excessive Therapy,Patient receives more therapy than intended (variance of > 20% to <= 100%),"Electrolyte imbalance, Clostridium Difficile associated Diarrhea,  peripheral edema, hypertension, hemolysis, pulmonary toxicity (for Nexterone only), respiratory failure, cardiac arrhythmia, cerebral edema, organ damage/failure, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular
+- Supportive Care 
+- Specialty Care ",N/A,N/A,Occasional,Likely,Expected,60
+HS.PIT.10.3,Excessive Therapy,Patient receives more therapy than intended (variance of > 20% to <= 100%),"Nausea/vomiting, electrolyte imbalance, hematuria, alopecia, peripheral edema, hemorrhagic cystitis, hypertension, hypotension, bradycardia,  impairment of wound healing, secondary malignancies, hematologic abnormalities, cerebral edema, organ damage/failure, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Oncology",N/A,N/A,Rare,Expected,Occasional,60
+HS.PIT.10.4,Excessive Therapy,"Patient receives more therapy than intended (variance of > 100% to <= 1,000%)","Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death","- Filled Solution Containers 
+- Sets and Set components (excludes those that do not control flow rate) 
+- LVP",N/A,N/A,N/A,"- Automated Syringe Filler 
+- Automated Compounder 
+- Repeater Pump and Accessories 
+- Compounding Pumps 
+- Order Entry Calculation Software 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- Empty Bags (Non-Nutrition)",- Intravenous Fat Emulsions    ,Occasional,Expected,Likely,60
+HS.PIT.10.4,Excessive Therapy,"Patient receives more therapy than intended (variance of > 100% to <= 1,000%)","Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,"- Syringe Pump
+",N/A,N/A,N/A,N/A,Occasional,Likely,Expected,60
+HS.PIT.10.4,Excessive Therapy,"Patient receives more therapy than intended (variance of > 100% to <= 1,000%)","Electrolyte imbalance, peripheral edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Expected,Likely,N/A,100
+HS.PIT.10.5,Excessive Therapy,"Patient receives more therapy than intended (variance of > 1,000% or free flow of solution)","Electrolyte imbalance, peripheral  edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death","- Sets and Set Components (excludes those that do not control flow rate) 
+- LVP","- Syringe Pump
+",N/A,N/A,N/A,N/A,Often,Expected,Periodic,80
+HS.PIT.10.5,Excessive Therapy,"Patient receives more therapy than intended (variance of > 1,000% or free flow of solution)","Electrolyte imbalance, peripheral  edema, hypertension, respiratory failure, cerebral edema, organ damage/failure, death",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Expected,N/A,N/A,100
+HS.PIT.11.1,Impurities,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (organic or degradants),Adverse events related to individual organic impurity or degradant ,- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Exceptional,Expected,40
+HS.PIT.11.2,Impurities,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (tryptophan organic or degradants),Adverse events related to tryptophan organic impurities or degradants ,- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,N/A,"- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers (Amino Acids only)
+- Pharmacy Bulk Pack Solutions in Glass (Amino Acids only)
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+",Exceptional,Rare,Expected,40
+HS.PIT.11.3,Impurities,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 1),"ADHD, poor impulse control, impaired cognitive ability , hypertension, damage reproductive organs, hemolytic anemia, nephropathy, cerebrovascular accident, encephalopathy, coma, convulsions, cancer, death",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.11.4,Impurities,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 2),"Dermatitis, hypertension, diabetes, cancer",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.11.5,Impurities,Patient is exposed to impurities at levels exceeding toxicological qualification or clinical safety (elemental ICH Class 3),"Dermatitis, skin ulceration,  Decreased hemoglobin, oliguria, anemia, kidney damage, hepatocellular toxicity,  renal tubular damage,  hemolysis ",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Rare,Expected,20
+HS.PIT.11.6,Impurities,"Patient is exposed to impurities that are not defined or are defined as ""other"" by current guidances","Nausea and vomiting, impaired immune system, anemia","- Filled Solution Containers
+",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.11.7,Impurities,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 1),"Narcotic-like effect, bone marrow suppression, blood disorders including pancytopenia and aplastic anemia, cancer, death",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Occasional,Expected,60
+HS.PIT.11.8,Impurities,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 2),"Adverse effects due to acute toxic effect, tachycardia, metabolic acidosis,  renal failure, coma, death",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Rare,Expected,50
+HS.PIT.11.9,Impurities,Patient is exposed to residual solvents or process materials at levels exceeding toxicological qualification or clinical safety (ICH Class 3),"Adverse effects due to acute toxic effect, tachycardia, metabolic acidosis,  renal failure",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Exceptional,Expected,40
+HS.PIT.11.10,Impurities,Patient is exposed to residual solvents or process materials not defined by current guidances at levels exceeding toxicological qualification or clinical safety,"CNS depression, narcosis, depressed respirations, liver and kidney damage",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.12.1,Incorrect Application of Product,Patient is exposed to a product via an incorrect application (Blood Removal),"Low blood pressure, tachycardia, anemia, decreased oxygenation, tissue injury, organ damage/failure, death
+",- LVP,N/A,- Ambulatory Pump ,N/A,N/A,N/A,Rare,Rare,Expected,50
+HS.PIT.12.2,Incorrect Application of Product,Patient is exposed to a product via an incorrect application (CSF Removal),"Neurologic syndrome that may include headache, nausea, and tinnitus, orthostatic headaches",- LVP,N/A,- Ambulatory Pump ,N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.13.1,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 5% to <= 10%),"Phlebitis, nausea/vomiting, electrolyte imbalances, Clostridium Difficile associated Diarrhea, hypotension, bradycardia, worsening of patient condition, hemolysis, enhanced pharmacological effects",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.13.2,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 10% to <= 20%),"Phlebitis, nausea/vomiting, electrolyte imbalances, seizures, respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.13.3,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 20% to <= 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, seizures, respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death",- Filled Solution Containers,N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.13.3,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 20% to <= 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, Clostridium Difficile associated Diarrhea, hypotension, bradycardia, worsening of patient condition, seizures, hemolysis, pulmonary toxicity (for Nexterone only), respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death
+",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Supportive Care 
+- Specialty Care",N/A,N/A,Occasional,Likely,Expected,60
+HS.PIT.13.3,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 20% to <= 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, seizures, respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death
+",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Oncology",N/A,N/A,Rare,Expected,Occasional,60
+HS.PIT.13.4,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, seizures, respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death",- Filled Solution Containers,N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Likely,60
+HS.PIT.13.4,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, Clostridium Difficile associated Diarrhea, hypotension, bradycardia, worsening of patient condition, seizures, hemolysis, pulmonary toxicity (for Nexterone only), respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death
+",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Specialty Care 
+- Supportive Care",N/A,N/A,Periodic,Expected,Occasional,70
+HS.PIT.13.4,Incorrect Concentration or Strength,Patient is exposed to a product with a higher concentration or strength than intended (variance of > 100%),"Phlebitis, nausea/vomiting, electrolyte imbalances, seizures, respiratory depression, enhanced pharmacological effects, arrhythmia, organ damage/failure, death
+",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Oncology",N/A,N/A,Likely,Expected,N/A,90
+HS.PIT.13.5,Incorrect Concentration or Strength,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 5% to <= 10%),"Diminished pharmacological effect, worsening of patient condition","- Filled Solution Containers
+- Sets and Set Components",- IV Syringe Set,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Sterile Compounding Accessories
+- Non-Sterile Compounding Accessories
+- Compounding accessories
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.13.6,Incorrect Concentration or Strength,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 10% to <= 20%),"Diminished pharmacological effect, worsening of patient condition","- Filled Solution Containers
+- Sets and Set Components",- IV Syringe Set,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables
+- Sterile Compounding Accessories
+- Non-Sterile Compounding Accessories
+- Compounding accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Exceptional,Expected,40
+HS.PIT.13.6,Incorrect Concentration or Strength,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 10% to <= 20%),"Diminished pharmacological effect, worsening of patient condition, neutropenic fever",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Exceptional,Rare,Expected,40
+HS.PIT.13.7,Incorrect Concentration or Strength,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 20% to <= 100%),"Diminished pharmacological effect, Worsening of patient condition, up to and including death","- Filled Solution Containers
+- Sets and Set Components",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.13.7,Incorrect Concentration or Strength,Patient is exposed to a product with a lower concentration or strength than intended (variance of > 20% to <= 100%),"Diminished pharmacological effect, worsening of patient condition, neutropenic fever, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Occasional,Expected,Periodic,60
+HS.PIT.14.1,Incorrect Product,Patient is exposed to an incorrect or unintended product,"Unintended pharmacological effect, lack of intended pharmacological effect, death","- Filled Solution Containers 
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- DoseEdge 
+- Automated Compounders
+- Sterile Compounding Disposables
+- Compounder Tube Sets 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Order entry calculation software","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Periodic,60
+HS.PIT.15.1,Incorrect Route of Administration,Patient is exposed to a product via an incorrect route of administration,"Vessel irritation/damage, pain, tissue necrosis, organ damage/failure,  respiratory difficulty, embolism, stroke,  death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Rare,60
+HS.PIT.15.1,Incorrect Route of Administration,Patient is exposed to a product via an incorrect route of administration,"Vessel irritation/damage, pain, tissue necrosis, organ damage/failure,  respiratory difficulty, embolism, stroke,  death",N/A,"- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Periodic,Expected,Rare,70
+HS.PIT.15.1,Incorrect Route of Administration,Patient is exposed to a product via an incorrect route of administration,"Vessel irritation/damage, pain, tissue necrosis, organ damage/failure,  respiratory difficulty, embolism, stroke,  death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Occasional,Expected,Occasional,60
+HS.PIT.16.1,Insufficient Therapy,Patient receives less therapy than intended (variance of > 5% to <= 10%),"Decrease of pharmacological effects, worsening of patient condition","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.16.2,Insufficient Therapy,Patient receives less therapy than intended (variance of > 10% to <= 20%),"Decrease of pharmacological effects, worsening of patient condition","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Exceptional,Expected,40
+HS.PIT.16.2,Insufficient Therapy,Patient receives less therapy than intended (variance of > 10% to <= 20%),"Decrease of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Periodic,Expected,30
+HS.PIT.16.2,Insufficient Therapy,Patient receives less therapy than intended (variance of > 10% to <= 20%),"Decrease of pharmacological effects, worsening of patient condition, neutropenic fever (for Imipenem only)",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Exceptional,Rare,Expected,40
+HS.PIT.16.3,Insufficient Therapy,Patient receives less therapy than intended (variance of > 20% to <= 100%),"Decrease of pharmacological effects, worsening of patient condition, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.16.3,Insufficient Therapy,Patient receives less therapy than intended (variance of > 20% to <= 100%),"Decrease of pharmacological effects, worsening of patient condition, death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.16.3,Insufficient Therapy,Patient receives less therapy than intended (variance of > 20% to <= 100%),"Decrease of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Periodic,60
+HS.PIT.16.3,Insufficient Therapy,Patient receives less therapy than intended (variance of > 20% to <= 100%),"Decrease of pharmacological effects, worsening of patient condition, neutropenic fever (for Imipenem only), death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Occasional,Expected,Periodic,60
+HS.PIT.17.1,Interference with an Unrelated Therapy or Condition,"Patient experiences a delayed, interrupted or insufficient medical intervention outside of the intended therapy",harm could be related to interference with pacemakers,N/A,N/A,N/A,N/A,"- DoseEdge  
+- Repeater Pump and Accessories ",N/A,Rare,Periodic,Expected,50
+HS.PIT.17.2,Interference with an Unrelated Therapy or Condition,"Patient experiences a delayed, interrupted or insufficient medical intervention outside of the intended therapy (other medical devices or data systems)","Interference of network, ECG interference, Interruption of other device ",- LVP,N/A,N/A,N/A,- Automated Compounders,N/A,Rare,Expected,Periodic,60
+HS.PIT.17.2,Interference with an Unrelated Therapy or Condition,"Patient experiences a delayed, interrupted or insufficient medical intervention outside of the intended therapy (other medical devices or data systems)","Interference of network, ECG interference, Interruption of other device ",N/A,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Occasional,Expected,Often,60
+HS.PIT.17.3,Interference with an Unrelated Therapy or Condition,Patient is exposed to an unnecessary medical intervention outside of the intended therapy (other medical devices or data systems),"Inherent harms related to excessive or unnecessary treatments, potential drug overdose, death",- LVP,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Rare,Expected,Occasional,60
+HS.PIT.18.1,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 minute to <= 5 minutes),"Decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Rare,Rare,Expected,50
+HS.PIT.18.1,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 minute to <= 5 minutes),"Decrease of pharmacological effects, worsening of patient condition","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia",N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.18.1,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 minute to <= 5 minutes),"Decrease of pharmacological effects, worsening of patient condition, death
+",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.18.1,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 minute to <= 5 minutes),"Decrease of pharmacological effects, worsening of patient condition
+",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Exceptional,Expected,20
+HS.PIT.18.2,Interruption of Therapy,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),"Significant decrease of pharmacological effects, worsening of patient condition, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,"- Order Entry Calculation Software 
+- DoseEdge 
+- Automated Compounders 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ",N/A,Rare,Often,Expected,50
+HS.PIT.18.2,Interruption of Therapy,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),"Decrease of pharmacological effects, worsening of patient condition, death
+",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Periodic,Likely,Expected,70
+HS.PIT.18.2,Interruption of Therapy,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),"Decrease of pharmacological effects, worsening of patient condition
+",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Often,60
+HS.PIT.18.2,Interruption of Therapy,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Occasional,Often,Expected,60
+HS.PIT.18.2,Interruption of Therapy,Patient experiences an interruption of therapy (> 5 minutes to <= 1 hour),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,"- DoseEdge 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Empty Containers (Non Nutrition) ",N/A,Periodic,Likely,Expected,70
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Often,Expected,Likely,80
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Periodic,60
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Often,Expected,Rare,80
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.18.3,Interruption of Therapy,Patient experiences an interruption of therapy (> 1 hour to <= 3 hours),"Significant decrease of pharmacological effects, worsening of patient condition",N/A,N/A,N/A,N/A,"- Order Entry Calculation Software
+- Automated Compounders
+- Sterile Compounding Disposables
+- Compounder Tube Sets
+- MVI
+- Empty Containers (Nutrition)
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,N/A,N/A,Periodic,Expected,Likely,70
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Likely,Expected,Occasional,90
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Rare,60
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Likely,Expected,N/A,90
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Occasional,Expected,Likely,60
+HS.PIT.18.4,Interruption of Therapy,Patient experiences an interruption of therapy (> 3 hours to < = 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,N/A,"- Pharmacy Bulk Pack Solutions in Glass
+- Order Entry Calculation Software
+- Automated Compounders
+- Compounder Tube Sets
+- MVI
+- Empty Containers (Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Expected,Occasional,60
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death","- Filled Solution Containers
+- Sets and Set Components
+- LVP",N/A,N/A,N/A,N/A,N/A,Often,Expected,Often,80
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition including death",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Expected,Likely,Rare,100
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Delay of pharmacological effects, worsening of patient condition",N/A,N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Expected,Exceptional,60
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Cardiovascular 
+- Specialty Care",N/A,N/A,Expected,Periodic,N/A,100
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Oncology and Supportive Care ",N/A,N/A,Periodic,Expected,Often,70
+HS.PIT.18.5,Interruption of Therapy,Patient experiences an interruption of therapy (> 12 hours),"Significant decrease of pharmacological effects, worsening of patient condition, death",N/A,N/A,N/A,N/A,"- Pharmacy Bulk Pack Solutions in Glass
+- Order Entry Calculation Software
+- Automated Compounders
+- Sterile Compounding Disposables
+- Compounder Tube Sets
+- MVI
+- Empty Containers (Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Periodic,Expected,Rare,70
+HS.PIT.19.1,Leachables,Patient is exposed to leachables at levels exceeding toxicological qualification or clinical safety,"Dermatitis, pain, numbness, spasm to extremities","- Filled Solution Containers
+- Sets and Set Components",- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Sterile Compounding Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- Non-Sterile Compounding Accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition)
+-Needleless adapters
+-Sterile adapters ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Exceptional,Expected,20
+HS.PIT.20.1,Mechanical Stress,Patient is exposed to damaged blood or blood products,"Breakdown of erythrocytes leads to cellular damage due to the plasmatic liberation of markers that largely dominate free hemoglobin and potassium. Delayed hemolytic transfusion reactions
+",N/A,"- Syringe Pump 
+- IV Syringe Set ",N/A,N/A,N/A,N/A,Occasional,Periodic,Expected,60
+HS.PIT.20.1,Mechanical Stress,Patient is exposed to damaged blood or blood products,"Breakdown of erythrocytes leads to cellular damage due to the plasmatic liberation of markers that largely dominate free hemoglobin and potassium. Delayed hemolytic transfusion reactions
+","- Sets and Set Components 
+- LVP",N/A,N/A,N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.20.2,Mechanical Stress,Patient's tissue is exposed to excessive or unintended force during therapy,"Intima damage, skin tears, pain, deep tissue damage, infiltration, extravasation (depending on drug being infused), compartment syndrome, loss of limb, catheter embolization, death","- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Occasional,Expected,Likely,60
+HS.PIT.20.3,Mechanical Stress,Patient's tissue is exposed to excessive tension or compression during therapy,"Pain, skin tears, deep tissue damage, infiltration, extravasation (depending on drug being infused), compartment syndrome, loss of limb, death",- Filled Solution Containers,N/A,N/A,"Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ","- MB+ 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) 
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.20.4,Mechanical Stress,Patient's tissue is exposed to shear stress during therapy,"compartment syndrome, extravasation",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition)",N/A,Rare,Occasional,Expected,50
+HS.PIT.21.1,Microbial Contamination,End User is exposed to bodily tissue,"Infection with HIV, Hepatitis B, Hepatitis C ","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Compounder Tube Sets
+- Sterile Compounding Accessories 
+- Sterile Compounding Disposables
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.21.2,Microbial Contamination,Patient is exposed to microbial burden exceeding acceptable limits,"Fever, chills, flushing, dyspnoea, hemorrhage, toxic shock, organ damage/failure, death
+",- Sets (only Sets with a 0.2 micron filter),N/A,"- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Periodic,Expected,Often,70
+HS.PIT.21.2,Microbial Contamination,Patient is exposed to microbial burden exceeding acceptable limits,"Fever, chills, flushing, dyspnoea, hemorrhage, toxic shock, organ damage/failure, death
+",N/A,- IV Syringe Set (only Sets with a 0.2 micron filter),N/A,N/A,N/A,N/A,Occasional,Periodic,Expected,60
+HS.PIT.21.3,Microbial Contamination,Patient is exposed to microbial contamination from a wet product contaminated at the point of or during administration or a dry product contaminated at any point,"Fever, chills, infection, BSI, sepsis, endocarditis,  encephalitis, organ damage/failure, septic shock,  death","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) "," - Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions",Occasional,Periodic,Expected,60
+HS.PIT.21.4,Microbial Contamination,"Patient is exposed to microbial contamination from a product contaminated at the point of compounding or admixing, prior to the point of administration","Fever, chills, infection, BSI, sepsis, endocarditis,  encephalitis, organ damage/failure, septic shock,  death",N/A,- IV Syringe Set,- Ambulatory Pump Sets,N/A,N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.21.4,Microbial Contamination,"Patient is exposed to microbial contamination from a product contaminated at the point of compounding or admixing, prior to the point of administration","Fever, chills, infection, BSI, sepsis, endocarditis,  encephalitis, organ damage/failure, septic shock,  death","- Filled Solution Containers 
+- Sets and Set Components",N/A,N/A,"Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care ","- Sterile Compounding Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Periodic,Expected,Occasional,70
+HS.PIT.21.5,Microbial Contamination,Patient is exposed to microbial contamination from a wet product contaminated prior to the point of use or from reuse of a previously dry product,"Fever, chills, infection, BSI, sepsis, endocarditis,  encephalitis, organ damage/failure, septic shock,  death",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Sterile Repeater Pump Disposables 
+- Non-Sterile Compounding Accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Often,Expected,Rare,80
+HS.PIT.22.1,Osmolarity Extremes,Patient is exposed to hyper-osmolar product,"Phlebitis, erythema, swelling, pain thrombosis and thrombophlebitis, death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ",Pre-mix TPN Injection wo Electrolytes,Occasional,Expected,Rare,60
+HS.PIT.22.2,Osmolarity Extremes,Patient is exposed to hypo-osmolar product,"Hyponatremia and associated symptoms including seizures, cerebral edema and death",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software  
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass ","- Pre-mix TPN Injection wo Electrolytes 
+",Rare,Occasional,Expected,50
+HS.PIT.23.1,Particulate Matter,Patient is exposed to sub-visible particulate matter at levels exceeding specifications,"Phlebitis, thrombophlebitis, pain, granuloma,  thrombosis, embolism, respiratory distress/ARDS, myocarditis, organ damage/failure",- Filled Solution Containers,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Exceptional,Expected,40
+HS.PIT.23.1,Particulate Matter,Patient is exposed to sub-visible particulate matter at levels exceeding specifications,"Phlebitis, thrombophlebitis, pain, granuloma, thrombosis",- Sets and Set Components,N/A,N/A,N/A,"- Sterile Compounding Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- Non-Sterile Compounding Accessories 
+- Recon Devices 
+- Automated Syringe Filler  
+- Bandolier Syringes 
+- Compounding accessories 
+- Compounder Tube Sets 
+- Compounding Pumps 
+- Needleless Adapters 
+- Needles 
+- Plastic Tubing Accessories 
+- Sterile Adapters 
+- Sterile Compounding Accessories",N/A,N/A,N/A,Expected,20
+HS.PIT.23.2,Particulate Matter,Patient is exposed to visible particulate matter,"Phlebitis, thrombophlebitis, pain, granuloma,  thrombosis, embolism, respiratory distress/ARDS, myocarditis, organ damage/failure, death
+","- Filled Solution Containers
+- Sets and Set Components",N/A,N/A,N/A,"- Sterile Compounding Accessories 
+- Sterile Compounding Disposables 
+- Sterile Repeater Pump Disposables 
+- Non-Sterile Compounding Accessories 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition)
+- Compounding accessories
+- Sterile adapters  ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Periodic,Expected,60
+HS.PIT.23.2,Particulate Matter,Patient is exposed to visible particulate matter,"Phlebitis, thrombophlebitis, pain, granuloma, thrombosis, embolism, respiratory distress/ARDS, myocarditis, organ damage/failure, death
+",N/A,- IV Syringe Set,- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care",N/A,N/A,Occasional,Expected,Periodic,60
+HS.PIT.24.1,pH Extremes,Patient is exposed to a product with a pH of < 6 or > 9,"Phlebitis, pain, infiltration, edema, thrombus, tissue necrosis,  infection, electrolyte abnormalities, CNS effects, organ damage/failure",- Filled Solution Containers,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular (excluding Cardioplegic Solution) 
+- Oncology and Supportive Care 
+- Specialty Care","- Order Entry Calculation Software 
+- DoseEdge 
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Periodic,Expected,40
+HS.PIT.24.2,pH Extremes,Patient is exposed to a product with a pH of < 7 or > 8,"Damaged myocardial  tissue ranging from mild irritation to necrotic tissue;  organ failure, death
+",N/A,N/A,N/A,"Premix 
+- Cardiovascular (Cardioplegic Solution only)",N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.25.1,Temperature Extremes,Patient is infused with a product at higher than intended temperatures (> 43캜 / 109.4캟),"Pain, tissue damage, scleroses veins, scarring,  injury and death of blood components (e.g. red/white  blood  cells and platelets) with resulting risk for anemia and/or infection and clotting disorders; thrombosis, death
+",- Filled Solution Containers,N/A,N/A,"Premix Frozen 
+- Anti-Infectives 
+- Cardiovascular   ","- Pharmacy Bulk Pack Solutions in Glass
+- Empty Bags (Non-Nutrition)","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Occasional,Expected,50
+HS.PIT.26.1,Unintended Bolus,Patient receives an unintended micro-bolus,"In line with the infused drug뭩 side effect (SE) profile e.g. nausea/vomiting (N/V), headaches, sedation and drowsiness","- Sets and Set Components (excludes those that do not control flow rate) 
+- LVP",N/A,N/A,N/A,N/A,N/A,N/A,Exceptional,Expected,20
+HS.PIT.26.1,Unintended Bolus,Patient receives an unintended micro-bolus,"In line with the infused drug뭩 side effect (SE) profile e.g. nausea/vomiting (N/V), headaches, sedation and drowsiness",N/A,"- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Exceptional,Exceptional,Expected,40
+HS.PIT.26.2,Unintended Bolus,Patient receives an unintended bolus within prescribed parameters,"This is not an overdose. A patient will be administered a dose when not required so the impact this could have on patient will be in line with product뭩 SE profile e.g. N/V, headaches, sedation and drowsiness
+",- LVP,N/A,N/A,N/A,N/A,N/A,Rare,Occasional,Expected,50
+HS.PIT.26.2,Unintended Bolus,Patient receives an unintended bolus within prescribed parameters,"This is not an overdose. A patient will be administered a dose when not required so the impact this could have on patient will be in line with product뭩 SE profile e.g. N/V, headaches, sedation and drowsiness
+",N/A,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.26.3,Unintended Bolus,Patient receives an unintended bolus above prescribed parameters,"In line with the infused drug뭩 side effect (SE) profile e.g. nausea/vomiting (N/V), headaches, sedation, drowsiness, hypertension, hypotension (Brevibloc), respiratory failure, cardiac arrhythmia, bradycardia, organ damage/failure, death
+","- Filled Solution Containers 
+- LVP ","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.27.1,Unintended Exposure to Product,End User inserts or ingests removable product components,"Airway compromise, respiratory distress, organ damage/failure, death","- Filled Solution Containers
+- Sets and Set Components",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Compounding Accessories
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Occasional,Expected,Often,60
+HS.PIT.27.1,Unintended Exposure to Product,End user inserts or ingests removable product components,"Airway compromise, respiratory distress, organ damage/failure, death
+",N/A,- IV Syringe Set,- Ambulatory Pump Sets,N/A,N/A,N/A,Periodic,Expected,Often,70
+HS.PIT.27.2,Unintended Exposure to Product,End User is entangled or entrapped by the product or product components,"Respiratory difficulty, bruising from restraint, asphyxiation, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Specialty Care ","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Rare,Expected,50
+HS.PIT.27.3,Unintended Exposure to Product,End User is exposed to a sharp surface on the product,"Laceration, pain, infection","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Compounding Accessories
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Rare,Expected,20
+HS.PIT.27.4,Unintended Exposure to Product,"End User is exposed to a spike, needle, or cannula stick","Laceration, pain, infection. Puncture wound","- Filled Solution Containers 
+- Sets and Set Components",- IV Syringe Set (only Sets with spikes),- Ambulatory Pump Sets,"Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass
+- Compounder Tube Sets
+- Compounding Accessories 
+- Sterile Compounding Accessories 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.27.5,Unintended Exposure to Product,End user is exposed to excessive force by a product or product components during product use,"Pinching injuries, minor cuts","- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,N/A,N/A,N/A,Rare,Expected,20
+HS.PIT.27.6,Unintended Exposure to Product,End User is exposed to improper ergonomics and anthropometrics while handling the product,"Back injury, muscle and joint injuries","- Filled Solution Containers
+- Sets and Set Components",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- Compounder Tube Sets
+- Sterile Compounding Accessories 
+- Non-Sterile Compounding Accessories 
+- Sterile Compounding disposables
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",N/A,Occasional,Expected,20
+HS.PIT.27.6,Unintended Exposure to Product,End User is exposed to improper ergonomics and anthropometrics while handling the product,"Back injury, muscle and joint injuries",- LVP,"- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,"- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories",N/A,Exceptional,Occasional,Expected,40
+HS.PIT.27.7,Unintended Exposure to Product,End User is struck by a falling product,"crush, cut, mutilation, fracture, concussion",- Sets and Set Components,- IV Syringe Set ,N/A,N/A,"- Compounder Tube Sets
+- Sterile Compounding Accessories 
+- Non-Sterile Compounding Accessories 
+- Recon Devices
+",N/A,N/A,Exceptional,Expected,20
+HS.PIT.27.7,Unintended Exposure to Product,End User is struck by a falling product,"crush, cut, mutilation, fracture, concussion","- Filled Solution Containers
+",N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Rare,Expected,40
+HS.PIT.27.7,Unintended Exposure to Product,End User is struck by a falling product,"crush, cut, mutilation, fracture, concussion, death",- LVP,N/A,N/A,N/A,"- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories",N/A,Rare,Occasional,Expected,50
+HS.PIT.27.7,Unintended Exposure to Product,End User is struck by a falling product,"Pinch, crush, cut, mutilation, fracture, concussion, death",N/A,"- Syringe Pump
+","- Ambulatory Pump 
+- Syringe Pump ",N/A,N/A,N/A,Occasional,Often,Expected,60
+HS.PIT.27.8,Unintended Exposure to Product,"End User is unintentionally exposed to a chemical, drug, or material","Pain, dermal/mucosal irritation, contact dermatitis, chemical burns","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets",N/A,"- Compounder Tube Sets
+- Compounding Accessories
+- Sterile compounding accessories
+- Sterile compounding disposables
+- MB+ 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Exceptional,Occasional,Expected,40
+HS.PIT.27.8,Unintended Exposure to Product,"End User is unintentionally exposed to a chemical, drug, or material","Pain, dermal/mucosal irritation, contact dermatitis, chemical burns, pregnant End User: malformation of fetus , spontaneous abortion  ",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Supportive Care 
+- Specialty Care",N/A,N/A,Rare,Periodic,Expected,50
+HS.PIT.27.8,Unintended Exposure to Product,"End User is unintentionally exposed to a chemical, drug, or material","Pain, dermal/mucosal irritation, contact dermatitis, mutagenicity, chemical burns, pregnant End User: malformation of fetus , spontaneous abortion  ",N/A,N/A,N/A,"Premix, Prefilled Syringe, Vial/Ampoule, Tablet 
+- Oncology",N/A,N/A,Occasional,Likely,Expected,60
+HS.PIT.27.9,Unintended Exposure to Product,"End User slips, trips or falls when exposed to the product","Concussion, bruises, sprains, fractures, cerebral hemorrhage, death","- Filled Solution Containers
+- Sets and Set Components
+- LVP","- Syringe Pump 
+- IV Syringe Set ","- Ambulatory Pump 
+- Syringe Pump 
+- Bolus Cord 
+- Ambulatory Pump Sets","Premix, Prefilled Syringe, Vial/Ampoule 
+- Anesthesia 
+- Anti-Infectives 
+- Cardiovascular 
+- Oncology and Supportive Care 
+- Specialty Care","- DoseEdge 
+- Automated Compounders 
+- Repeater Pump and Accessories 
+- Sterile Compounding Disposables 
+- Non sterile compounding accessories
+- Compounder Tube Sets
+- Compounding Accessories
+- Sterile Compounding Accessories
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Pharmacy Bulk Pack Solutions in Flexible Containers
+- Pharmacy Bulk Pack Solutions in Glass 
+- MVI 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Rare,Likely,Expected,50
+HS.PIT.28.1,Unstable Emulsion,Patient is exposed to an unstable drug emulsion,"Phlebitis, diminished pharmacological effects, embolism, organ damage/failure, death","- Filled Solution Containers
+",N/A,N/A,"Premix, Vial/Ampoule 
+- Anesthesia (Propofol Only)","- Order Entry Calculation Software 
+- DoseEdge
+- Sterile Repeater Pump Disposables 
+- MB+ 
+- Recon Devices 
+- Empty Containers (Non Nutrition) 
+- Empty Containers (Nutrition) ","- Pre-mix TPN/PPN Injection w/wo Electrolytes 
+- Intravenous Fat Emulsions    ",Often,Expected,Rare,80

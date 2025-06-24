@@ -1,0 +1,44 @@
+CREATE TABLE IF NOT EXISTS "Appendix C - P1" (
+    "hs_id" TEXT PRIMARY KEY,
+    "hazardous_situation" TEXT,
+    "selected_p1_rationale" TEXT,
+    "p1_predicted_by_subject_matter_expertise" REAL,
+    "p1" INTEGER,
+    "data_summary_derived_p1" REAL,
+    "ucl" REAL,
+    "ucl_value_for_each_plants" REAL
+);
+
+CREATE TABLE IF NOT EXISTS "appendix_b_p2_conversion" (
+    "hazardous_situation_id" TEXT PRIMARY KEY,
+    "critical_qualitative" TEXT,
+    "moderate_qualitative" TEXT,
+    "minor_qualitative" TEXT,
+    "critical_semi_quantitative" REAL,
+    "moderate_semi_quantitative" REAL,
+    "minor_semi_quantitative" REAL,
+    "probability_of_hazardous_situation_(p1)" REAL,
+    "critical" REAL,
+    "moderate" REAL,
+    "minor" REAL,
+    "critical_pharm_qualitative" TEXT,
+    "moderate_pharm_qualitative" TEXT,
+    "minor_pharm_qualitative" TEXT
+);
+
+CREATE TABLE IF NOT EXISTS "HSHA-PARENTERAL-INFUSION" (
+    "new_hsnumber" TEXT PRIMARY KEY,
+    "hazard" TEXT,
+    "hazardous_situation" TEXT,
+    "harm" TEXT,
+    "core_infusion_large_volume_pump" TEXT,
+    "syringe_pump" TEXT,
+    "pain_pumps" TEXT,
+    "therapeutic_drug" TEXT,
+    "compounding" TEXT,
+    "parenteral_nutrition" TEXT,
+    "critical" TEXT,
+    "moderate" TEXT,
+    "minor" TEXT,
+    "criticality_ranking" INTEGER
+);
